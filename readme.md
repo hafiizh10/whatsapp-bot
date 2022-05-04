@@ -24,6 +24,7 @@ As because Whatsapp regularly makes an update, so we needs to always **use the l
 - Clone or download this repo
 - Enter to the project directory
 - Run `npm install`
+- Run `npm update whatsapp-web.js`
 - Run `npm run start:dev`
 - Open browser and go to address `http://localhost:8000`
 - Scan the QR Code
